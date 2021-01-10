@@ -1,3 +1,15 @@
+li {
+    display:flex; 
+    align-items:center; 
+    margin:8px 0; 
+    border-radius: 6px;
+    background: #e0e0e0;
+    box-shadow:  5px 5px 13px #848484,
+    -5px -5px 13px #ffffff;
+    padding-bottom: 4px;
+    background-color: white;
+    padding: 8px 28px;
+}
 .myLink{
     line-height: 30px;
     text-align: center;
@@ -12,6 +24,11 @@
     color: white;
     font-size: 15px;
 }
-h2 {
+.myLink:hover {background-color: #328bff;}
+p {
     text-align: center;
+    color: #5e5e5e;
+    margin: 0;
+    font-size: medium;
+    font-weight: 500;
 }
