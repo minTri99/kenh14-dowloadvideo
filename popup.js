@@ -6,7 +6,7 @@ function myfunction(){
         return render+= `
         <li style="display:flex; align-items:center; margin:8px 0; border:1px soild black;">
             <img style = "max-width:200px; max-height:150px; margin-right:8px" src = "${obj.thumb}">
-            <span><a type="video/mp4" href="https://${obj.video}" target="_blank">download</a></span>
+            <span><a class="myLink"  type="video/mp4" href="https://${obj.video}" download target="_blank">Download</a></span>
         </li>`
         
     })
