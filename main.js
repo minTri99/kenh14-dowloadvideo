@@ -1,5 +1,5 @@
 function kenh14() {
-    let videoElement = document.querySelectorAll('.knc-content .VCSortableInPreviewMode')
+    let videoElement = document.querySelectorAll('.VCSortableInPreviewMode[type=VideoStream]')
     let list = []
     for (x of videoElement) {
         if(x.getAttribute('data-vid') !== null) {
