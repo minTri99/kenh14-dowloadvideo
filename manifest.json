@@ -1,9 +1,9 @@
 {
-  "name": "Kenh14",
-  "description": "Kenh 14 get video",
+  "name": "VCCorp download",
+  "description": "VCCorp download video",
   "version": "1.0",
   "browser_action": {
-    "default_icon": "Logo.png",
+    "default_icon": "Logo.jpg",
     "default_popup": "popup.html"
   },
   "permissions": ["activeTab"],
@@ -14,9 +14,9 @@
     }
   ],
   "icons": {
-    "128": "Logo.png",
-    "16": "Logo.png",
-    "48": "Logo.png"
+    "128": "Logo.jpg",
+    "16": "Logo.jpg",
+    "48": "Logo.jpg"
 },
   "background": {
     "page": "background.html",
