@@ -1,4 +1,4 @@
-chorme extension download video from kenh14.vn,afamily.vn
+chorme extension download video from kenh14.vn,afamily.vn,Genk.vn,...
 
 
 *HOW TO USE*
